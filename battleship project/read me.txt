@@ -1,0 +1,1 @@
+Hi when you're running the game, make sure you press "play" on the server instance before the client instance, or else the client will not be able to find the server to connect to. The server always moves first.
